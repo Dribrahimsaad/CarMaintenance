@@ -19,3 +19,8 @@ Car Maintenance Management System
         تصدير واستيراد قواعد البيانات بالكامل (SQLite Backup & Restore) لحماية البيانات.
 
     🌐 واجهة ثنائية اللغة: دعم كامل للتبديل الفوري بين اللغتين العربية والإنجليزية.
+
+
+<img width="1195" height="870" alt="image" src="https://github.com/user-attachments/assets/9a12d461-a669-4943-b1c3-cb91a179dee0" />
+
+<img width="1195" height="724" alt="image" src="https://github.com/user-attachments/assets/03d18bfe-e2d1-48ac-9e8a-39bf49dd0e27" />
