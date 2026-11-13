@@ -1,0 +1,26 @@
+🚗 Car Maintenance Manager | مدير صيانة السيارات
+📝 عن البرنامج (About The Project)
+Car Maintenance Manager هو تطبيق مكتبي (Desktop Application) متكامل ومصمم خصيصاً لإدارة صيانة السيارات الشخصية والعائلية. يهدف البرنامج إلى مساعدة المستخدم في تتبع كل ما يخص سيارته، بدءاً من مواعيد الصيانات الدورية، مروراً بالأجزاء التي تم تغييرها، وصولاً إلى التنبيهات الذكية لمواعيد الصيانة القادمة (سواء بالكيلومترات أو بالتاريخ).
+تم بناء التطبيق باستخدام Python و PyQt6 مع قاعدة بيانات SQLite محلية، مما يعني أنه يعمل بشكل أوفلاين بالكامل (Offline) ولا يحتاج إلى إنترنت، وتظل بياناتك محفوظة على جهازك بخصوصية تامة.
+✨ المميزات الرئيسية (Key Features)
+    📊 لوحة تحكم ذكية: واجهة رئيسية تعرض السيارات المسجلة مع تنبيهات فورية للصيانات القادمة، والرخص، والتأمين.
+    📖 دليل الصيانة الشامل: دليل مدمج يوضح المواعيد الافتراضية لتغيير كل قطعة غيار (زيت معدني، تخليقي، فلتر، بوجيهات، تيل فرامل، بطارية، إلخ).
+    🤖 حساب آلي للصيانة القادمة: بمجرد كتابة اسم القطعة التي تم تغييرها، يقوم البرنامج بحساب موعد الصيانة القادمة تلقائياً بناءً على نوع القطعة.
+    🌗 دعم الثيم الداكن والفاتح: واجهة مريحة للعين مع إمكانية التبديل بين الوضع النهاري والليلي (Dark/Light Mode).
+    🌐 دعم لغتين: واجهة مستخدم كاملة باللغة العربية والإنجليزية.
+    💾 نسخ احتياطي واستيراد: إمكانية تصدير قاعدة البيانات كملف واحد للاحتفاظ به على فلاشة أو سحابة، واستيرادها في أي وقت بضغطة زر.
+    📊 تصدير التقارير: إمكانية تصدير سجل الصيانات إلى ملف Excel (مناسب جداً للطباعة أو العرض).
+    🔒 حفظ آمن للبيانات: قاعدة البيانات تُحفظ بجانب الملف التنفيذي (أو في مجلد AppData إذا كان المسار محمياً) لضمان عدم ضياع البيانات.
+🚗 Car Maintenance Manager
+📝 About The Project
+Car Maintenance Manager is a comprehensive, offline desktop application designed to manage the periodic maintenance of personal and family vehicles. It aims to help users effortlessly track their car's health—from routine service schedules and replaced parts, to cost tracking and intelligent reminders for upcoming maintenance (based on mileage or time).
+Built with Python, PyQt6, and a local SQLite database, this application runs entirely offline. Your data stays securely on your device, ensuring complete privacy without the need for an internet connection.
+✨ Key Features
+    📊 Smart Dashboard: A clean home screen displaying all your registered cars, along with instant alerts for upcoming services, license expirations, and insurance renewals.
+    📖 Built-in Maintenance Guide: A comprehensive guide showing standard replacement intervals for various car parts (Mineral Oil, Synthetic Oil, Air Filters, Spark Plugs, Brake Pads, Battery, etc.) based on time and mileage.
+    🤖 Smart Auto-Calculation: When you enter a replaced part in the maintenance form, the app automatically calculates and suggests the next service due date and mileage based on the part's specifications.
+    🌗 Dark & Light Themes: A comfortable, eye-friendly interface with a beautiful dark gray mode and a clean light mode.
+    🌐 Bilingual Support: Full UI support for both Arabic and English languages, with a seamless toggle button.
+    💾 Backup & Restore: Export your entire database as a single file to keep on a USB drive or cloud, and easily restore it anytime with a single click.
+    📊 Excel Reporting: Export your maintenance history to an Excel file, perfect for printing, records, or sharing.
+    🔒 Safe Data Storage: The database is securely saved right next to the executable file (or in the AppData folder if the directory is write-protected), ensuring your data is never lost.
