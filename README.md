@@ -1,4 +1,4 @@
-🚗 Car Maintenance & Diagnostics Manager - v2.0
+🚗 Car Maintenance & Diagnostics Manager 
 Car Maintenance & Diagnostics Management is an integrated and innovative desktop application designed specifically to be the ultimate personal assistant for every driver and car owner. 
 The software combines the power of routine maintenance management with intelligent fault diagnosis in a single, user-friendly interface.
 Comprehensive Car Management: Precise tracking of every vehicle, a complete maintenance history, oil changes, replacement parts, and expenses. 
@@ -22,7 +22,7 @@ Important Notice: The program does not connect directly to the car; it does not 
 
 Desiged by Dr.Ibrahim Saad
 
-🚗 مدير صيانة وتشخيص السيارات - الإصدار 2.0 
+🚗 مدير صيانة وتشخيص السيارات 
 إدارة صيانة وتشخيص السياراتتطبيق مكتبي متكامل ومبتكر، صُمم خصيصاً ليكون المساعد الشخصي الأول لكل سائق ومالك سيارة. يجمع البرنامج بين قوة إدارة الصيانات الدورية وذكاء تشخيص الأعطال في واجهة واحدة سهلة الاستخدام.
 إدارة شاملة للسيارات: تتبع دقيق لكل سيارة، سجل كامل للصيانات، تغيير الزيوت، القطع التغيرة، والتكاليف. يعمل على ويندوز، يجمع في مكان واحد دفتر صيانة سياراتك ومساعد تشخيص أعطال ذكي يفهم وصفك للمشكلة بالعامية المصرية. 
 كل بياناتك محفوظة على جهازك فقط، ولا يحتاج اتصالاً بالإنترنت. لمن هذا البرنامج؟
