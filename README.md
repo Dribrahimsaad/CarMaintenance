@@ -1,5 +1,5 @@
 🚗 Car Maintenance & Diagnostics Manager 
-Car Maintenance & Diagnostics Management is an integrated and innovative desktop application designed specifically to be the ultimate personal assistant for every driver and car owner. 
+Car Maintenance & Diagnostics Management is an integrated and innovative desktop and mobile android application designed specifically to be the ultimate personal assistant for every driver and car owner. 
 The software combines the power of routine maintenance management with intelligent fault diagnosis in a single, user-friendly interface.
 Comprehensive Car Management: Precise tracking of every vehicle, a complete maintenance history, oil changes, replacement parts, and expenses. 
 Running on Windows, it brings together your car's maintenance logbook and an intelligent diagnostic assistant that understands your description of the problem in Egyptian colloquial Arabic.
@@ -23,7 +23,7 @@ Important Notice: The program does not connect directly to the car; it does not 
 Desiged by Dr.Ibrahim Saad
 
 🚗 مدير صيانة وتشخيص السيارات 
-إدارة صيانة وتشخيص السياراتتطبيق مكتبي متكامل ومبتكر، صُمم خصيصاً ليكون المساعد الشخصي الأول لكل سائق ومالك سيارة. يجمع البرنامج بين قوة إدارة الصيانات الدورية وذكاء تشخيص الأعطال في واجهة واحدة سهلة الاستخدام.
+إدارة صيانة وتشخيص السياراتتطبيق مكتبي متكامل ومبتكر، للحاسب والموبيل بنظام اندرويد صُمم خصيصاً ليكون المساعد الشخصي الأول لكل سائق ومالك سيارة. يجمع البرنامج بين قوة إدارة الصيانات الدورية وذكاء تشخيص الأعطال في واجهة واحدة سهلة الاستخدام.
 إدارة شاملة للسيارات: تتبع دقيق لكل سيارة، سجل كامل للصيانات، تغيير الزيوت، القطع التغيرة، والتكاليف. يعمل على ويندوز، يجمع في مكان واحد دفتر صيانة سياراتك ومساعد تشخيص أعطال ذكي يفهم وصفك للمشكلة بالعامية المصرية. 
 كل بياناتك محفوظة على جهازك فقط، ولا يحتاج اتصالاً بالإنترنت. لمن هذا البرنامج؟
 لمالك السيارة الذي يريد ألا ينسى موعد الزيت أو الترخيص، وللميكانيكي أو الفني الذي يريد مرجعاً سريعاً لأكواد الأعطال، ولأصحاب الأسطول الصغير الذين يتابعون عدة سيارات. 
@@ -43,4 +43,6 @@ Desiged by Dr.Ibrahim Saad
 
 التصميم والتطوير: د. إبراهيم سعد
 <img width="1605" height="903" alt="01" src="https://github.com/user-attachments/assets/32447205-49a9-4200-aef9-9a50485dc8f2" />
+<img width="1080" height="2400" alt="1795246549238" src="https://github.com/user-attachments/assets/0fe2f5ae-c051-44d3-889a-20b9fdf813ad" />
+
 
