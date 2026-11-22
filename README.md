@@ -42,7 +42,8 @@ Desiged by Dr.Ibrahim Saad
 تنبيه مهم: البرنامج لا يتصل بالسيارة؛ هو لا يقرأ الأكواد بنفسه. اقرأ الكود بجهاز فحص OBD2 ثم أدخله هنا لتفهمه. ونتائج التشخيص إرشادات مساعدة وليست بديلاً عن الفحص الفعلي لدى فني مختص.
 
 التصميم والتطوير: د. إبراهيم سعد
-<img width="1605" height="903" alt="01" src="https://github.com/user-attachments/assets/32447205-49a9-4200-aef9-9a50485dc8f2" />
+<img width="1158" height="937" alt="02" src="https://github.com/user-attachments/assets/4210f45a-d414-495c-b4c3-24b6be722b89" />
+
 <img width="1080" height="2400" alt="1795246549238" src="https://github.com/user-attachments/assets/0fe2f5ae-c051-44d3-889a-20b9fdf813ad" />
 
 
